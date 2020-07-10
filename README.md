@@ -1,4 +1,6 @@
-### Hi there 👋
+# Kevin Tam - Software Engineer
+
+Hi! I'm Kevin, a Computer Science student at Brooklyn College.
 
 <!--
 **KevinTamCS/KevinTamCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
