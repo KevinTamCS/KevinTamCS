@@ -6,4 +6,4 @@ I'm an active contributor to Brooklyn College's tech community as a Microsoft Le
 
 I'm currently seeking a Software Engineering internship to expand upon my skillset in a challenging work environment, to work with talented individuals in an innovative company, and to gain exposure to the world of software engineering.
 
-Right now, I'm working on [Eventure](https://eventure.kevintamcs.com), an online platform dedicated to helping users discover and host virtual events. Feel free to take a look at it, or check out my other projects below!
+Right now, I'm working on [Eventure](https://eventure.kevintamcs.com), an online platform dedicated to helping users discover and host virtual events. Feel free to take a look at it and my other projects below!
